@@ -3,7 +3,7 @@ package tictactoe;
 public class BoardField {
 	private int field;
 	private boolean occupied;
-//Test
+
 	public BoardField() {
 		field = 0;
 		occupied = false;
